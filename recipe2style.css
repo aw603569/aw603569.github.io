@@ -9,9 +9,26 @@ h1{
 }
 
 h2{
-  color: #6DA398
+  color: #6DA398;
+  width:50%;
+  float: left;
+  margin-left: 30px;
 }
 
 ul{
   font-weight: 900;
+  width:50%;
+  float: left;
+  margin-right: 30px;
+}
+
+#divsection1{
+  width:50%;
+  float: left;
+}
+
+#divsection2{
+  width: 50%;
+  float:left;
+
 }
