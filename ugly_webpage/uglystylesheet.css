@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
+@import url(https://fonts.googleapis.com/css?family=Acme);
+@import url(https://fonts.googleapis.com/css?family=Cinzel+Decorative);
+
+header{
+  color:#00aaff;
+}
+
+h1{
+  font-family: coming soon;
+  color:#ff0080;
+  margin: 10px 10px 10px 10px;
+}
+
+h2{
+  font-family: Acme;
+  text-decoration: overline;
+  font-style:italic;
+}
+
+h3{
+  font-family:Cinzel Decorative;
+ }
+
+h4{
+  background-color:#00802b;
+  margin; 60px 30px 60px 30px;
+  font-weight: 800px;
+}
+
+h5{
+  text-decoration: line-through;
+}
+
+h6{}
+
+#poem1{
+color:#c4ff4d;
+float:right;
+margin; 40px 40px 40px 40px;
+}
+
+#para1{
+  border: 3px dashed blue;
+}
+
+#para2{
+  border: 2px solid #ff9900;
+}
+
+#para3{
+  background-color: #9999ff;
+}
+
+#para4{
+font-weight: bolder;
+margin: 34px 34px 34px 34px;
+}
+
+#para7{
+  color:red;
+}
+
+#para13{
+  color:brown;
+  float:left;
+}
+
+ul{
+  word-spacing: 50px;
+  border: 70px solid #ffb3ff;
+  font-family: Pacifico;
+  background-color: #ff5c33;
+}
+
+#poem2{
+  float:right;
+  padding: 10%;
+  margin: 74px 74px 74px 74px;
+}
+
+ol{
+  line-height: 120%;
+  background-color:#00b8e6;
+}
+
+#div1{
+  border: 12 solid #dab3ff;
+}
