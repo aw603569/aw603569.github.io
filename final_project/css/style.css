@@ -1,0 +1,78 @@
+nav{
+  text-align: left;
+}
+
+nav a{
+  text-decoration: none;
+  margin:0 15px;
+  font-size: 30px;
+  color:#7EA4A4;
+}
+
+title{
+  color:#7EA4A4;
+}
+
+header{
+  border-bottom: solid 4px black;
+  color: black;
+}
+
+body{
+  background-color:#F5F8EF;
+}
+
+#aboutme{
+  text-align: left;
+  font-size: 20px;
+  color:
+}
+
+.TulipandRannuculus{
+}
+.DarkHedges{
+  margin-top: 50px;
+}
+
+.ConnemaraRoad{
+  margin-top: 50px;
+}
+
+.FinalPortfolioJailCell{
+  margin-top: 50px;
+}
+
+.FinalPortfolioWindow{
+  margin-top: 50px;
+}
+
+.Edinburgh2{
+  margin-top: 50px
+}
+
+.Edinburgh3{
+  margin-top: 50px
+}
+
+.Hawaii{
+  margin-top: 50px
+}
+
+.DingleIreland{
+  margin-top: 50px
+}
+
+.WeatheredPierPost{
+  margin-top: 50px;
+}
+.TreeReflection{
+  margin-top: 50px;
+}
+
+.Lighter{
+  margin-top: 50px;
+}
+
+.WinterStrawPlant{
+  margin-top: 50px;
+}
