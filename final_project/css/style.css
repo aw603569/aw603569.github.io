@@ -7,7 +7,7 @@ nav{
 
 a{
   text-decoration: none;
-  margin:0 15px;
+  margin-right:30px;
   font-size: 40px;
   color:black;
   font-family: Open Sans Condensed,sans-serif;
@@ -15,6 +15,7 @@ a{
 
 a:hover{
   text-decoration: none;
+  color:grey;
 }
 
 h1{
@@ -30,6 +31,46 @@ header{
   text-align: left;
   font-size: 30px;
   font-family:Open Sans Condensed,sans-serif;
+}
+
+.menubar{
+  font-size:35px;
+}
+
+.aboutmetitle{
+  font-family:Open Sans Condensed,sans-serif;
+  font-size:30px;
+  text-align: center;
+}
+
+.galleriestitle{
+  font-family:Open Sans Condensed,sans-serif;
+  font-size:30px;
+  text-align: center;
+}
+
+.gallerynames{
+  font-family:Open Sans Condensed,sans-serif;
+  font-size:25px;
+  text-align: right;
+}
+
+.courseworktitle{
+  font-family:Open Sans Condensed,sans-serif;
+  font-size:30px;
+  text-align: center;
+}
+
+.traveltitle{
+  font-family:Open Sans Condensed,sans-serif;
+  font-size:30px;
+  text-align: center;
+}
+
+.miscellaneoustitle{
+  font-family:Open Sans Condensed,sans-serif;
+  font-size:30px;
+  text-align: center;
 }
 
 .DarkHedges{
